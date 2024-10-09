@@ -5,13 +5,12 @@
 
 Aqui está um exemplo de **`README.md`** para o seu projeto:
 
+![logo](https://github.com/user-attachments/assets/3b721ca6-b870-4c27-b34e-3d545f9c2770)
+
 ```markdown
 # Midium API Express
 
 Este projeto é uma API RESTful simples desenvolvida em Node.js e Express. A API realiza operações CRUD (Create, Read, Update, Delete) em usuários armazenados em um arquivo JSON (`user.json`). A autenticação de login é feita com JWT (JSON Web Token), e as senhas são criptografadas com bcrypt.
-
-![logo](https://github.com/user-attachments/assets/3b721ca6-b870-4c27-b34e-3d545f9c2770)
-
 
 ## Estrutura do Projeto
 
