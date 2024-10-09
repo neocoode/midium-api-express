@@ -1,0 +1,34 @@
+
+---
+
+### 2. **Arquivo .gitignore**
+
+Aqui está um exemplo de **`.gitignore`** para ignorar arquivos e diretórios que não devem ser incluídos no controle de versão:
+
+```gitignore
+# Diretórios e arquivos de dependências
+node_modules/
+npm-debug.log*
+
+# Arquivos de ambiente
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de cobertura de teste
+coverage/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
