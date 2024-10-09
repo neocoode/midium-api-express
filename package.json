@@ -2,8 +2,10 @@
   "name": "midium-api-express",
   "version": "1.0.0",
   "description": "This is a basic project structure for a Node.js API with a CRUD system for users.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
