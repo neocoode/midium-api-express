@@ -14,23 +14,23 @@ Este projeto é uma API RESTful simples desenvolvida em Node.js e Express. A API
 
 ## Estrutura do Projeto
 
-```
-project/
-│
-├── src/
-│   ├── app/
-│   │   ├── controllers/
-│   │   │   └── userController.js
-│   ├── routes/
-│   │   └── userRoutes.js
-│   ├── data/
-│   │   └── user.json
-│   └── index.js
-│
-├── package.json
-├── README.md
-└── .gitignore
-```
+   ```
+      project/
+      │
+      ├── src/
+      │   ├── app/
+      │   │   ├── controllers/
+      │   │   │   └── userController.js
+      │   ├── routes/
+      │   │   └── userRoutes.js
+      │   ├── data/
+      │   │   └── user.json
+      │   └── index.js
+      │
+      ├── package.json
+      ├── README.md
+      └── .gitignore
+   ```
 
 ## Instalação
 
